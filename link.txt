@@ -19,4 +19,3 @@ Search : https://api.themoviedb.org/3/search/movie?api_key=631a889cc4ec7cbd2413f
 
 
 
-Git Hub Key : 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
