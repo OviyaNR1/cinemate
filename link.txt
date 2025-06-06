@@ -16,3 +16,7 @@ Top Rated:  https://api.themoviedb.org/3/movie/top_rated?api_key=631a889cc4ec7cb
 Upcoming:  https://api.themoviedb.org/3/movie/upcoming?api_key=631a889cc4ec7cbd2413fbc8dc242b7c
 
 Search : https://api.themoviedb.org/3/search/movie?api_key=631a889cc4ec7cbd2413fbc8dc242b7c&query={movie_name}
+
+
+
+Git Hub Key : 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
